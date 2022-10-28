@@ -3,6 +3,6 @@
 
   Order summary componenet website, build using HTML, CSS.
 
-  <a href="https://codewithsadee.github.io/volti/"><strong>➥ Live Demo</strong></a>
+  <a href="https://c0dewithlokesh.github.io/order-summary-component/"><strong>➥ Live Demo</strong></a>
 
 </div>
